@@ -1,0 +1,4 @@
+C:\Webhtml\cooper 1\startbootstrap test 專案使用的是bootstrap模板 : 嵌入PDF已有基本縮放和Toorbar的功能
+
+#
+C:\Webhtml\cooper 1\pdfjs-4.10.38  專案使用的是bootstrap+pdf.js模板
